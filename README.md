@@ -102,7 +102,7 @@ me.say_hi()
 
 ## 🧠 FLAGSHIP PROJECTS
 
-### 🧮 [Insurance Premium Intelligence Engine](github.com/sam20799/insurance-premium-prediction)
+### 🧮 [Insurance Premium Intelligence Engine](/insurance-premium-prediction)
 <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
 
 Production-grade ML system for insurance premium prediction using **age-based model segmentation**.  
@@ -112,7 +112,7 @@ Implements business logic, validation checks, and extreme-error control for real
 
 ---
 
-### 🏦 [Credit Risk & Loan Default Prediction](github.com/sam20799/credit-risk-model)
+### 🏦 [Credit Risk & Loan Default Prediction](/credit-risk-model)
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="400">
 
 End-to-end ML pipeline for **loan default prediction and credit scoring**.  
@@ -122,7 +122,7 @@ Includes preprocessing pipelines, tuned XGBoost model, risk score generation, an
 
 ---
 
-### 🚗 [Vehicle Damage Detection & Classification](github.com/sam20799/car_damage_detection)
+### 🚗 [Vehicle Damage Detection & Classification](/car_damage_detection)
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
 
 Computer vision model for detecting and classifying **vehicle damage severity** from images.  
