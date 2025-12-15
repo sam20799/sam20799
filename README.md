@@ -182,7 +182,6 @@ I'm always interested in collaborating on innovative ML projects or discussing t
 - 💼 Open to collaborations and interesting projects
 - 📫 Best way to reach me: [samop20799@gmail.com]
 - 💬 Ask me about: Deep Learning, Computer Vision, NLP, MLOps
-- ⚡ Fun fact: [Something interesting about you]
 
 </div>
 
