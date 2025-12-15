@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, I'm [Your Name]
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, I'm [Shubham]
 
 <div align="center">
   
@@ -6,9 +6,12 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=Transforming+Data+into+Intelligence;Building+AI-Powered+Solutions;Deep+Learning+%7C+Computer+Vision+%7C+NLP;MLOps+%7C+Data+Science+%7C+Research" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/shubhamk07/))
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([your-portfolio-url](https://shubhhamtech.netlify.app/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-samop20799@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamk07/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shubhhamtech.netlify.app/)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samop20799@gmail.com)
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -83,13 +86,11 @@ me.say_hi()
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" alt="GitHub Stats" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sam20799&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sam20799&layout=compact&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sam20799&theme=radical&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sam20799&theme=react-dark)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6D00&currStreakLabel=00F7F7" alt="GitHub Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&bg_color=0d1117&color=00f7f7&line=00f7f7&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
@@ -101,30 +102,36 @@ me.say_hi()
 
 <div align="center">
 
-### 🤖 [Project Name 1](link-to-repo)
+## 🧠 FLAGSHIP PROJECTS
+
+### 🧮 [Insurance Premium Intelligence Engine](https://github.com/sam20799/insurance-premium-prediction)
 <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
 
-Advanced computer vision model achieving 95%+ accuracy on [dataset name]. Deployed using FastAPI and Docker.
+Production-grade ML system for insurance premium prediction using **age-based model segmentation**.  
+Implements business logic, validation checks, and extreme-error control for real-world reliability.
 
-**Tech:** PyTorch, OpenCV, FastAPI, Docker
+**Tech:** Python, XGBoost, Scikit-learn, Streamlit, FastAPI
 
 ---
 
-### 📈 [Project Name 2](link-to-repo)
+### 🏦 [Credit Risk & Loan Default Prediction](https://github.com/sam20799/credit-risk-model)
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="400">
 
-End-to-end ML pipeline for time-series forecasting with automated retraining and monitoring.
+End-to-end ML pipeline for **loan default prediction and credit scoring**.  
+Includes preprocessing pipelines, tuned XGBoost model, risk score generation, and explainability-ready outputs.
 
-**Tech:** TensorFlow, MLflow, Kubernetes, AWS
+**Tech:** Python, XGBoost, Pandas, SQL, FastAPI
 
 ---
 
-### 💬 [Project Name 3](link-to-repo)
+### 🚗 [Vehicle Damage Detection & Classification](https://github.com/sam20799/car-damage-classification)
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
 
-NLP-powered chatbot using transformer architecture, serving 10K+ daily users.
+Computer vision model for detecting and classifying **vehicle damage severity** from images.  
+Designed for insurance and automotive use-cases with deployment-ready inference pipeline.
 
-**Tech:** HuggingFace, BERT, Flask, Redis
+**Tech:** Python, OpenCV, CNNs, TensorFlow / PyTorch, Streamlit
+
 
 </div>
 
@@ -132,32 +139,33 @@ NLP-powered chatbot using transformer architecture, serving 10K+ daily users.
 
 ---
 
-## 📝 Latest Blog Posts
-
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
-
-<!-- BLOG-POST-LIST:START -->
-- 📚 [Understanding Transformer Architecture from Scratch](#)
-- 🚀 [MLOps Best Practices for Production Systems](#)
-- 🎯 [Computer Vision: From Theory to Deployment](#)
-- 🧠 [Deep Dive into Neural Network Optimization](#)
-<!-- BLOG-POST-LIST:END -->
-
-<br clear="right"/>
-
----
-
 ## 🏆 Certifications & Achievements
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" /> 🎓 [Certification Name] - Institution
+## 🎓 CERTIFICATIONS & ACHIEVEMENTS
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" /> 🏅 Kaggle Expert (Competitions & Datasets)
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28" />  
+**Data Analytics Certification** – Invact  
+*(Python, SQL, Power BI, EDA, Business Analytics, End-to-End Projects)*
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" /> 📜 [Another Achievement]
+<br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" /> 🎖️ [Published Research/Papers]
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28" />  
+**Machine Learning Bootcamp** – Codebasics  
+*(Supervised & Unsupervised Learning, Feature Engineering, Model Evaluation)*
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28" />  
+**Generative AI & LLMs (Ongoing)** – Codebasics  
+*(LLMs, Prompt Engineering, RAG, LangChain, Agentic AI)*
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28" />  
+**Deployed Multiple Production-Ready ML Apps**  
+*(Streamlit, FastAPI, model validation, business logic integration)*
 
 </div>
 
