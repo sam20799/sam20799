@@ -100,7 +100,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=120&text=SHUBHAM%20KR&fontSize=42&fontColor=00F7FF&animation=fadeIn)
+![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=600&color=00F7FF&center=true&vCenter=true&width=900&lines=Data+Analyst+→+AI%2FML+Engineer;Building+Production-Grade+ML+Systems;GenAI+%7C+LLMs+%7C+Agentic+AI;From+Data+to+Decisions+to+Autonomy)
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165" />
 
 </div>
@@ -114,7 +116,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
 <a href="mailto:samop20799@gmail.com">
-<img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black" />
+[![Email](https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:samop20799@gmail.com)
 </a>
 </p>
 
