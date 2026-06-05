@@ -136,74 +136,9 @@ Designed for insurance and automotive use-cases with deployment-ready inference 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
-
-## 🏆 Certifications & Achievements
-
 <div align="center">
 
-## 🎓 CERTIFICATIONS & ACHIEVEMENTS
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28" />  
-**Data Analytics Certification** – Invact  
-*(Python, SQL, Power BI, EDA, Business Analytics, End-to-End Projects)*
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28" />  
-**Machine Learning Bootcamp** – Codebasics  
-*(Supervised & Unsupervised Learning, Feature Engineering, Model Evaluation)*
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28" />  
-**Generative AI & LLMs (Ongoing)** – Codebasics  
-*(LLMs, Prompt Engineering, RAG, LangChain, Agentic AI)*
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28" />  
-**Deployed Multiple Production-Ready ML Apps**  
-*(Streamlit, FastAPI, model validation, business logic integration)*
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Snake" width="400">
-
-I'm always interested in collaborating on innovative ML projects or discussing the latest in AI research. Feel free to reach out!
-
-- 💼 Open to collaborations and interesting projects
-- 📫 Best way to reach me: [samop20799@gmail.com]
-- 💬 Ask me about: Deep Learning, Computer Vision, NLP, MLOps
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-### 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=flat-square&label=Profile+Views)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9637-46b6-b88a-8e2da2a85bf3.gif" width="1000">
-
-**"The only way to do great work is to love what you do."** - Steve Jobs
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
 
